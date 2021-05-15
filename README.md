@@ -4,3 +4,5 @@ Mais um desafio da DIO.
 
 Adicionei uma mensagem de Game over e a pontuação. :ok_hand:
 
+https://fabiobriz.github.io/Snake-game/
+
